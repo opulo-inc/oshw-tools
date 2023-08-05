@@ -87,6 +87,10 @@ GEM
     unicode-display_width (2.4.2)
     webrick (1.8.1)
 
+PLATFORMS
+  arm64-darwin-22
+  x86_64-linux
+
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
