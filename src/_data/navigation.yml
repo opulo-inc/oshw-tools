@@ -1,0 +1,27 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "ECAD"
+    url: ecad
+  - title: "MCAD"
+    url: mcad
+  - title: "Communication"
+    url: comm
+
+ecad:
+  - title: Design
+    children:
+      - title: "KiCAD"
+        url: /ecad#kicad
+      - title: "Spice"
+        url: /ecad#spice
+
+mcad:
+  - title: Design
+    children:
+      - title: "FreeCAD"
+        url: /mcad#freecad
+      - title: "OpenSCAD"
+        url: /mcad#openscad
+
