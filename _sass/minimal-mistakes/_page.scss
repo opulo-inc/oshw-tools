@@ -557,3 +557,34 @@ body {
     }
   }
 }
+
+.badge {
+  border-radius:15px;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  padding-left: 0.5em;
+  padding-right:0.5em;
+  margin-right: 10px;
+}
+
+.badge-primary {
+  background-color:#DAA520;
+  color: #333;
+  
+}
+
+.badge-secondary {
+  background-color:#555;
+}
+
+.badge-success {
+  background-color:rgb(45, 134, 60);
+}
+
+.badge-danger {
+  background-color:rgb(146, 39, 39);
+}
+
+.badge-info {
+  background-color:rgb(36, 83, 159);
+}
