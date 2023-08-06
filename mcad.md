@@ -32,7 +32,7 @@ This being said, this issue is actively being addressed by the FreeCAD community
 
 ### [CADQuery](https://cadquery.readthedocs.io/en/latest/)
 
-
+### Blender
 
 ## Automation
 

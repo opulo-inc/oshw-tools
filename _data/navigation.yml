@@ -6,6 +6,8 @@ main:
     url: ecad
   - title: "MCAD"
     url: mcad
+  - title: "MFG"
+    url: mfg
   - title: "Communication"
     url: comm
 
@@ -24,4 +26,28 @@ mcad:
         url: /mcad#freecad
       - title: "OpenSCAD"
         url: /mcad#openscad
+
+mfg:
+  - title: Production Planning
+    children:
+      - title: "FreeCAD"
+        url: /mfg#freecad
+      - title: "OpenSCAD"
+        url: /mfg#openscad
+
+comm:
+  - title: Docs
+    children:
+      - title: "MKDocs"
+        url: /comm#mkdocs
+      - title: "OpenSCAD"
+        url: /comm#openscad
+
+  - title: Community
+    children:
+      - title: "Discord"
+        url: /comm#discord
+      - title: "Discourse"
+        url: /comm#discourse
+
 

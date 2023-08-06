@@ -20,18 +20,31 @@ sidebar:
 
 here i am talking about things
 
-### Spice
-
 ## Automation
 
-### KiBot
+### [KiBot](https://github.com/INTI-CMNB/KiBot)
+lots of exports, gerbers, images, 
+[example for feeders](https://github.com/opulo-inc/feeder/blob/main/.github/workflows/export-ecad.yaml)
 
-### Opulo's Export Script
+### [KiKit](https://github.com/yaqwsx/KiKit)
+Mainly for panelization, can also export
 
-### Panelization
+```
+kikit panelize 
+  --layout 'grid; rows: 2; cols: 3;'
+  --tabs 'full'
+  --cuts 'vcuts'
+  --source 'tolerance: 10mm'
+  --post 'millradius: 0.5mm;'
+  input.kicad_pcb output.kicad_pcb
+```
 
 ## Sharing
 
-### KiCanvas
+### [KiCanvas](https://kicanvas.org/)
+Embedded support soon
+[example](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fopulo-inc%2Ffeeder%2Ftree%2Fmain%2Fpcb%2Fmobo)
 
-### Tracespace
+### [Tracespace](https://tracespace.io/view/)
+
+

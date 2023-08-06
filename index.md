@@ -11,7 +11,7 @@ header:
   caption: "Photo credit: **Tobias Netzer**"
 excerpt: "Building Open Hardware is difficult. This site is a collection of tools that make designing, collaborating on, and distributing Open Hardware easier."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Open source software has an incredibly mature development and distribution ecosystem. This site is broken into three broad subsections around the tools needed to support the **other** aspects of an open hardware project: ECAD, MCAD, and communication.'
 feature_row:
   - image_path: assets/ecad.jpg
     alt: "placeholder image 1"
@@ -28,9 +28,9 @@ feature_row:
     btn_label: "See Tools"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Information"
+    title: "Communication"
     excerpt: "Tools for community discussion, sharing updates, and general publication"
-    url: "#test-link"
+    url: "comm"
     btn_label: "See Tools"
     btn_class: "btn--primary"
 feature_row2:
