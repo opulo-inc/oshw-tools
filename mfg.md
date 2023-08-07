@@ -16,49 +16,49 @@ header:
   overlay_filter: "0.65"
   overlay_image: /assets/feature.jpg
   caption: "Photo credit: **Tobias Netzer**"
-excerpt: "Building Open Hardware is difficult. This site is a collection of tools that make designing, collaborating on, and distributing Open Hardware easier."
 sidebar:
   nav: "mfg"
 ---
 
-## production planning
+## Production Planning
 
-### Inventree
+### [Inventree](https://inventree.org/) - Inventory Management
 <span class="badge badge-success">Open Source</span>
 
-### Aligni
+### [Aligni](https://www.aligni.com/) - Inventory Management
 <span class="badge badge-danger">Paid Product</span>
 
-### Work Instructions (MKDocs)
-<span class="badge badge-success">Open Source</span>
+### [MKDocs](https://www.mkdocs.org/) - Work Instructions
+<span class="badge badge-success">Open Source</span><span class="badge badge-primary">Github CI</span>
 
-## Solder Paste Application
+## PCB Assembly
 
-### stencil
+### [3040 Solder Paste Printer](https://www.amazon.com/s?k=3040+solder+paste+printer)
 <span class="badge badge-danger">Paid Product</span>
 
-## Component Population
-
-### lumen
+### [LumenPnP](https://opulo.io/products/lumenpnp) - Pick and Place Machine
 <span class="badge badge-success">Open Source</span><span class="badge badge-danger">Paid Product</span>
 
-## Reflow
-
-### UM RMP
+### [Reflow Master Pro](https://reflowmasterpro.com/) - Reflow Oven Controller
 <span class="badge badge-success">Open Source</span><span class="badge badge-danger">Paid Product</span>
+
+### [Whizoo Controleo3](https://whizoo.com/products/ready-to-run-reflow-oven) - Reflow Oven
+<span class="badge badge-danger">Paid Product</span>
 
 ## Quality Control
 
-### tets jigs
+### [PCBA Tests Jigs](https://www.ebay.com/sch/i.html?_nkw=PCBA+testing+jig)
 <span class="badge badge-danger">Paid Product</span>
 
-### Test Software Bunnie and xobs framework
+### [Exclave](https://github.com/exclave/exclave)
 <span class="badge badge-success">Open Source</span>
 
+### [OpenHTF](https://github.com/google/openhtf)
+<span class="badge badge-success">Open Source</span>
 
-## mechanical parts
+## Part Production
 
-### P1P
+### [P1P](https://us.store.bambulab.com/products/p1p)
 <span class="badge badge-danger">Paid Product</span>
 
 ### Belt Printer

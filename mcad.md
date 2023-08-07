@@ -11,7 +11,6 @@ header:
   overlay_filter: "0.65"
   overlay_image: /assets/feature.jpg
   caption: "Photo credit: **Tobias Netzer**"
-excerpt: "Building Open Hardware is difficult. This site is a collection of tools that make designing, collaborating on, and distributing Open Hardware easier."
 sidebar:
   nav: "mcad"
 ---
