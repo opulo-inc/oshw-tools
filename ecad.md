@@ -46,6 +46,12 @@ kikit panelize
   input.kicad_pcb output.kicad_pcb
 ```
 
+## Documentation
+
+### [PCB2Blender](https://github.com/30350n/pcb2blender)
+<span class="badge badge-success">Open Source</span>
+Turn KiCad designs into blender files for more granular rendering and documentation
+
 ## Sharing
 
 ### [KiCanvas](https://kicanvas.org/)
