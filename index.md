@@ -28,7 +28,7 @@ feature_row:
     btn_label: "See Tools"
     btn_class: "btn--primary"
   - image_path: /assets/mfg.png
-    title: "Maufacturing"
+    title: "Manufacturing"
     excerpt: "Tools and software for actually manufacturing your open source design"
     url: "mfg"
     btn_label: "See Tools"
