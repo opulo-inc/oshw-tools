@@ -16,14 +16,14 @@ feature_row:
   - image_path: assets/ecad.jpg
     alt: "placeholder image 1"
     title: "ECAD"
-    excerpt: "Tools and software used for easing the development of open source ECAD"
+    excerpt: "Tools and software used for easing the development of open source electronic computer-aided design (ECAD)"
     url: "ecad"
     btn_label: "See Tools"
     btn_class: "btn--primary"
   - image_path: /assets/mcad.png
     alt: "placeholder image 2"
     title: "MCAD"
-    excerpt: "Tools and software used for easing the development of open source MCAD"
+    excerpt: "Tools and software used for easing the development of open source mechanical computer-aided design (MCAD)"
     url: "mcad"
     btn_label: "See Tools"
     btn_class: "btn--primary"
