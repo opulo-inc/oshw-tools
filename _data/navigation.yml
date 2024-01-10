@@ -8,6 +8,8 @@ main:
     url: mcad
   - title: "MFG"
     url: mfg
+  - title: "Certification"
+    url: certs
   - title: "Communication"
     url: comm
 

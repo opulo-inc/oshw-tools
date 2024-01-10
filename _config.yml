@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OSHW Tools
+title: Midscale Manufacturing Resources
 email: support@opulo.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Building Open Hardware is difficult. This site is a collection of tools that make designing, collaborating on, and distributing Open Hardware easier.
+  Building hardware is difficult. This site is a collection of tools and information that make designing, collaborating on, and distributing hardware at a Midscale easier.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://midscale.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opulo-inc
 github_username:  opulo-inc
 

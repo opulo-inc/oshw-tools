@@ -18,9 +18,11 @@ sidebar:
 ## Design
 
 ### KiCAD
-{::nomarkdown}<span class="badge badge-success">Open Source</span>{:/}
+<span class="badge badge-success">Open Source</span>
 
 With ECAD software, there's really only one serious option: KiCAD. KiCAD is a powerful, professional PCB design package. It has a vast plugin system, and being open source means it has a ton of automation potential. Lots of the other tools on this page rely on the fact that KiCAD is the EDA of choice.
+
+### [WireViz](https://github.com/wireviz/WireViz)
 
 ## Automation
 
@@ -56,5 +58,3 @@ Embedded support soon
 
 ### [Tracespace](https://tracespace.io/view/)
 <span class="badge badge-info">Free Service</span>
-
-
