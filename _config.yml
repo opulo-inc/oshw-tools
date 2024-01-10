@@ -26,6 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://midscale.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opulo-inc
 github_username:  opulo-inc
+footer:
+  links:
+    - label: "Site source"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/opulo-inc/oshw-tools"
 
 # Build settings
 theme: minimal-mistakes-jekyll 
