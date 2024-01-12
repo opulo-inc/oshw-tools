@@ -50,9 +50,12 @@ kikit panelize
 
 ## Documentation
 
-### [PCB2Blender](https://github.com/30350n/pcb2blender)
+### [pcb2blender](https://github.com/30350n/pcb2blender)
 <span class="badge badge-success">Open Source</span>
-Turn KiCad designs into blender files for more granular rendering and documentation
+
+Turn KiCad designs into Blender files to create beautiful renders for your PCBs!
+
+![pcb2blender example](assets/pcb2blender_example.webp)
 
 ## Sharing
 
