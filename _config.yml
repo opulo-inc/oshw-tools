@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Midscale Manufacturing Resources
+title: Midscale Manufacturing
 email: support@opulo.io
 description: >- # this means to ignore newlines until "baseurl:"
   Building hardware is difficult. This site is a collection of tools and information that make designing, collaborating on, and distributing hardware at a Midscale easier.

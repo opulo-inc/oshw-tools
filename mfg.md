@@ -45,6 +45,21 @@ sidebar:
 ### [Whizoo Controleo3](https://whizoo.com/products/ready-to-run-reflow-oven) - Reflow Oven
 <span class="badge badge-danger">Paid Product</span>
 
+### [KiKit](https://github.com/yaqwsx/KiKit)
+<span class="badge badge-success">Open Source</span><span class="badge badge-primary">Github CI</span>
+
+Mainly for panelization, can also export
+
+```
+kikit panelize 
+  --layout 'grid; rows: 2; cols: 3;'
+  --tabs 'full'
+  --cuts 'vcuts'
+  --source 'tolerance: 10mm'
+  --post 'millradius: 0.5mm;'
+  input.kicad_pcb output.kicad_pcb
+```
+
 ## Quality Control
 
 ### [PCBA Tests Jigs](https://www.ebay.com/sch/i.html?_nkw=PCBA+testing+jig)
