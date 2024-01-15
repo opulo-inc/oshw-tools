@@ -96,7 +96,7 @@ Turn KiCad designs into Blender files to create beautiful renders for your PCBs!
 
 <iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/opulo-inc/lumenpnp/main/pnp/cad/FDM/back-leg.FCStd$camera=-217.09205,134.93892,8.02837,-34.00000,0.00000,-85.00000,0.00000,1.00000,0.00000,45.00000$projectionmode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255,255$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1"></iframe>
 
-3D Viewer is a fantastic tool for sharing and viewing FreeCAD source files (among many others). You can easily share links to view a FreeCAD file that's hosted on Github. [Example](https://3dviewer.net/#model=https://github.com/opulo-inc/lumenpnp/blob/main/pnp/cad/FDM/back-leg.FCStd) It also has embedding support, allowing you to put a KiCanvas viewer on your own site, which you can see above.
+3D Viewer is a fantastic tool for sharing and viewing FreeCAD source files (among many others). You can easily share links to view a FreeCAD file that's hosted on Github. [Example](https://3dviewer.net/#model=https://github.com/opulo-inc/lumenpnp/blob/main/pnp/cad/FDM/back-leg.FCStd) It also has embedding support, allowing you to put a 3d viewer on your own site, which you can see above.
 
 
 
