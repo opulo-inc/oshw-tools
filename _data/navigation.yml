@@ -2,16 +2,15 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "ECAD"
-    url: ecad
-  - title: "MCAD"
-    url: mcad
-  - title: "MFG"
+  - title: "Design"
+    url: design
+  - title: "Manufacturing"
     url: mfg
+  - title: "Documentation"
+    url: docs
   - title: "Certification"
     url: certs
-  - title: "Communication"
-    url: comm
+  
 
 ecad:
   - title: Design
