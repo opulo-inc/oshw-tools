@@ -106,7 +106,12 @@ KiCanvas is a fantastic tool for sharing and viewing KiCAD source files. You can
 
 <kicanvas-embed src="https://raw.githubusercontent.com/opulo-inc/lumenpnp/main/pnp/pcb/mobo/mobo.kicad_pcb" controls="basic"> </kicanvas-embed>
 
+### [Github Hardware Viewer Chrome Extension](https://chromewebstore.google.com/detail/github-hardware-viewer/oggfmoogaedapgampbfedliclpofigmn)
+<span class="badge badge-success">Open Source</span>
+
+![gh hardware viewer screenshot](https://www.opulo.io/cdn/shop/articles/Screenshot_2024-02-15_at_1.46.23_PM_1512x.png)
+
+The Github Hardware Viewer is a Chrome extension that allows you to view 3D models and KiCAD source files natively in Github. This tool uses KiCanvas and 3DViewer.net as the rendering engines.
 
 ### [Tracespace](https://tracespace.io/view/)
 <span class="badge badge-info">Free Service</span>
-
