@@ -10,45 +10,5 @@ main:
     url: docs
   - title: "Certification"
     url: certs
-  
-
-ecad:
-  - title: Design
-    children:
-      - title: "KiCAD"
-        url: /ecad#kicad
-      - title: "Spice"
-        url: /ecad#spice
-
-mcad:
-  - title: Design
-    children:
-      - title: "FreeCAD"
-        url: /mcad#freecad
-      - title: "OpenSCAD"
-        url: /mcad#openscad
-
-mfg:
-  - title: Production Planning
-    children:
-      - title: "FreeCAD"
-        url: /mfg#freecad
-      - title: "OpenSCAD"
-        url: /mfg#openscad
-
-comm:
-  - title: Docs
-    children:
-      - title: "MKDocs"
-        url: /comm#mkdocs
-      - title: "OpenSCAD"
-        url: /comm#openscad
-
-  - title: Community
-    children:
-      - title: "Discord"
-        url: /comm#discord
-      - title: "Discourse"
-        url: /comm#discourse
 
 
