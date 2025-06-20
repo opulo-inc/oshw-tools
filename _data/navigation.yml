@@ -1,54 +1,36 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Design"
-    url: design
-  - title: "Manufacturing"
-    url: mfg
-  - title: "Documentation"
-    url: docs
-  - title: "Certification"
-    url: certs
-  
-
-ecad:
-  - title: Design
-    children:
-      - title: "KiCAD"
-        url: /ecad#kicad
-      - title: "Spice"
-        url: /ecad#spice
-
-mcad:
-  - title: Design
-    children:
-      - title: "FreeCAD"
-        url: /mcad#freecad
-      - title: "OpenSCAD"
-        url: /mcad#openscad
-
-mfg:
-  - title: Production Planning
-    children:
-      - title: "FreeCAD"
-        url: /mfg#freecad
-      - title: "OpenSCAD"
-        url: /mfg#openscad
-
-comm:
-  - title: Docs
-    children:
-      - title: "MKDocs"
-        url: /comm#mkdocs
-      - title: "OpenSCAD"
-        url: /comm#openscad
-
-  - title: Community
-    children:
-      - title: "Discord"
-        url: /comm#discord
-      - title: "Discourse"
-        url: /comm#discourse
+  - title: "Handbook"
+    url: /handbook/start
+  - title: "Blog"
+    url: /blog/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
 
+handbook:
+- title: Operations
+- title: Certification
+  children:
+    - title: "Intro"
+      url: /handbook/certs/start
+    - title: "Types of Certification"
+      url: /handbook/certs/types
+    - title: "Which do I need?"
+      url: /handbook/certs/needed
+    - title: "Design to Pass"
+      url: /handbook/certs/design
+    - title: "Going in for Testing"
+      url: /handbook/certs/testing
+    - title: "Marking your Device"
+      url: /handbook/certs/marking
+- title: Marketing
+- title: Legal
+- title: Product
+- title: Manufacturing
