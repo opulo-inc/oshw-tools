@@ -1,0 +1,11 @@
+Stephen Hawes:
+  name        : "Stephen Hawes"
+  bio         : "making open hardware"
+  avatar      : "https://stephenhawes.com/assets/bento-thumb/stephen.jpeg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://stephenhawes.com"
+    - label: "Opulo"
+      icon: "fa fa-industry"
+      url: "https://opulo.io/"

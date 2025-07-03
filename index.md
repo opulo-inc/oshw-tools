@@ -17,13 +17,13 @@ feature_row:
   - image_path: /assets/mfg.png
     title: "Forum"
     excerpt: "Community forum where you can interact with other folks building a hardware product"
-    url: "mfg"
-    btn_label: "Check it out"
+    url: "/"
+    btn_label: "WIP"
     btn_class: "btn--primary"
   - image_path: /assets/comm.png
     title: "Blog"
     excerpt: "Written accounts from founders and developers highlighting a certain experience or issue"
-    url: "docs"
+    url: "blog"
     btn_label: "Check it out"
     btn_class: "btn--primary"
 
